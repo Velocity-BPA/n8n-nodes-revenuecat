@@ -1,0 +1,35 @@
+# Source files (TypeScript)
+credentials/**/*.ts
+nodes/**/*.ts
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+gulpfile.js
+jest.config.js
+
+# Test files
+test/
+coverage/
+*.test.ts
+*.spec.ts
+
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+
+# Scripts
+scripts/
+
+# Documentation (keep README)
+COMMERCIAL_LICENSE.md
+LICENSING_FAQ.md
+
+# Build artifacts
+*.log
+*.tmp
+.cache/
+node_modules/
