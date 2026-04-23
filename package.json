@@ -2,7 +2,7 @@
   "name": "n8n-nodes-revenuecat",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for RevenueCat providing 11 resources and 40+ operations for in-app subscription management. Includes subscriber management, entitlements, products, offerings, packages, purchases, analytics, and webhook triggers.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -65,7 +65,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.0",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.27.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.2.0",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
